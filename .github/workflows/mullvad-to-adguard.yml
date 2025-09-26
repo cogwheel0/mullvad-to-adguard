@@ -1,0 +1,148 @@
+name: Mullvad to AdGuard (Adblock style)
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "5 3 * * 1"   # Mondays 03:05 UTC
+
+permissions:
+  contents: write
+
+jobs:
+  build-lists:
+    runs-on: ubuntu-latest
+
+    env:
+      SRC_OWNER: mullvad
+      SRC_REPO: dns-blocklists
+      SRC_DIR: output/doh          # change to output/relay to use relay builds
+      OUT_ROOT: adguard
+      GH_API: https://api.github.com/repos
+
+    steps:
+      - name: Checkout this repo
+        uses: actions/checkout@v4
+
+      - name: Prepare workspace
+        run: |
+          set -euo pipefail
+          rm -rf "$OUT_ROOT" tmp_mullvad tmp_out
+          mkdir -p "$OUT_ROOT" tmp_mullvad/src tmp_out
+
+      - name: Fetch upstream file list
+        run: |
+          set -euo pipefail
+          curl -fsSL \
+            -H "Authorization: token ${{ github.token }}" \
+            "$GH_API/$SRC_OWNER/$SRC_REPO/contents/$SRC_DIR" \
+          > tmp_mullvad/index.json
+          jq -r '.[] | select(.type=="file") | .download_url' tmp_mullvad/index.json > tmp_mullvad/files.txt
+          echo "Upstream files: $(wc -l < tmp_mullvad/files.txt)"
+
+      - name: Download upstream files
+        run: |
+          set -euo pipefail
+          while read -r url; do
+            out="tmp_mullvad/src/$(basename "$url")"
+            echo "Downloading $url"
+            curl -fsSL "$url" -o "$out"
+          done < tmp_mullvad/files.txt
+
+      - name: Normalize and bucket (per-file categories → Adblock style)
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          category_from_filename() {
+            # e.g., doh_adblock.txt -> adblock ; relay_privacy.zone -> privacy
+            local stem name_lc cat
+            stem="$(basename "$1")"
+            stem="${stem%.*}"
+            name_lc="$(echo "$stem" | tr '[:upper:]' '[:lower:]')"
+            cat="${name_lc#doh_}"
+            cat="${cat#relay_}"
+            printf '%s\n' "$cat"
+          }
+
+          normalize_stream() {
+            # stdin → stdout; extract bare domains only
+            sed -e 's/\r$//' |
+            awk '
+              BEGIN { IGNORECASE=1 }
+              # skip empty lines and comments (also handles adblock "!" comments)
+              /^\s*($|#|;|!)/ { next }
+
+              # RPZ/zonefile-ish lines (CNAME/A etc.), ignore SOA/NS
+              /^[A-Za-z0-9_.-]+\s+(IN\s+)?(CNAME|A|TXT|NS|SOA|PTR)/ {
+                if ($0 ~ /(SOA|NS)/) next
+                print $1
+                next
+              }
+
+              # hosts format
+              /^(0\.0\.0\.0|127\.0\.0\.1|::1|::)\s+[A-Za-z0-9_.-]+/ { print $2; next }
+
+              # bare domain with at least one dot
+              /^[A-Za-z0-9][A-Za-z0-9.-]*\.[A-Za-z]{2,}$/ { print $0; next }
+            '
+          }
+
+          shopt -s nullglob
+          for f in tmp_mullvad/src/*.txt tmp_mullvad/src/*.zone; do
+            [ -f "$f" ] || continue
+            cat="$(category_from_filename "$f")"
+            mkdir -p "tmp_out/$cat"
+            normalize_stream < "$f" |
+              awk '{
+                d=tolower($0); gsub(/^\.|\.$/, "", d);
+                if (d ~ /^[a-z0-9][a-z0-9.-]*\.[a-z]{2,}$/) print d
+              }' >> "tmp_out/$cat/domains.raw"
+            echo "Bucketed $(basename "$f") -> $cat"
+          done
+
+          # Dedup/sort and write final per-category Adblock lists
+          for catdir in tmp_out/*; do
+            [ -d "$catdir" ] || continue
+            cat="$(basename "$catdir")"
+            outdir="$OUT_ROOT/categories/$cat"
+            mkdir -p "$outdir"
+            sort -u "$catdir/domains.raw" | awk '{printf "||%s^\n",$0}' > "$outdir/adblock.txt"
+            echo "$cat: $(wc -l < "$outdir/adblock.txt") rules"
+          done
+
+      - name: Build combined "all" list
+        run: |
+          set -euo pipefail
+          mkdir -p "$OUT_ROOT/all"
+          find "$OUT_ROOT/categories" -name adblock.txt -type f -print0 | xargs -0 cat | sort -u > "$OUT_ROOT/all/adblock.txt"
+          echo "ALL: $(wc -l < "$OUT_ROOT/all/adblock.txt") rules"
+
+      - name: Write README
+        run: |
+          set -euo pipefail
+          mkdir -p "$OUT_ROOT"
+          {
+            echo '# AdGuard Home Lists (Adblock-style only)'
+            echo
+            echo 'Source: mullvad/dns-blocklists/'"$SRC_DIR"'.'
+            echo 'Categories equal upstream filenames (minus doh_/relay_ and extension).'
+            echo
+            echo '## Outputs'
+            echo '- all/adblock.txt'
+            echo '- categories/<category>/adblock.txt'
+            echo
+            echo 'Each rule is Adblock syntax: ||domain^ (blocks the domain and all its subdomains).'
+          } > "$OUT_ROOT/README.md"
+
+      - name: Commit and push if changed
+        run: |
+          set -euo pipefail
+          if [ -n "$(git status --porcelain "$OUT_ROOT")" ]; then
+            git config user.name  "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add "$OUT_ROOT"
+            git commit -m "build(adguard): Adblock-style only (||domain^) per-file categories + combined"
+            git push
+          else
+            echo "No changes to commit."
+          fi
