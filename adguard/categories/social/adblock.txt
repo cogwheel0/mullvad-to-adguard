@@ -397,7 +397,6 @@
 ||23.0.220.136.103.rpz.ip^
 ||23.0.220.144.57.rpz.ip^
 ||23.0.222.144.57.rpz.ip^
-||23.0.232.144.57.rpz.ip^
 ||23.0.234.144.57.rpz.ip^
 ||23.0.236.144.57.rpz.ip^
 ||23.0.238.144.57.rpz.ip^
@@ -412,6 +411,8 @@
 ||23.0.30.134.129.rpz.ip^
 ||23.0.42.144.57.rpz.ip^
 ||23.0.44.144.57.rpz.ip^
+||23.0.54.144.57.rpz.ip^
+||23.0.56.144.57.rpz.ip^
 ||23.vk.com^
 ||230.vk.com^
 ||233.vk.com^
@@ -451,6 +452,7 @@
 ||24.0.17.240.157.rpz.ip^
 ||24.0.185.193.104.rpz.ip^
 ||24.0.192.240.157.rpz.ip^
+||24.0.192.45.101.rpz.ip^
 ||24.0.193.45.101.rpz.ip^
 ||24.0.195.240.157.rpz.ip^
 ||24.0.195.60.179.rpz.ip^
@@ -479,6 +481,7 @@
 ||24.0.221.136.103.rpz.ip^
 ||24.0.222.136.103.rpz.ip^
 ||24.0.222.240.157.rpz.ip^
+||24.0.223.136.103.rpz.ip^
 ||24.0.223.240.157.rpz.ip^
 ||24.0.224.240.157.rpz.ip^
 ||24.0.225.240.157.rpz.ip^
@@ -567,7 +570,6 @@
 ||2601manishpic.twitter.com^
 ||261pic.twitter.com^
 ||27.pic.twitter.com^
-||271693.genapicloud.comwww.feelinsonice.com^
 ||27khvpic.twitter.com^
 ||27thpic.twitter.com^
 ||2845pic.twitter.com^
@@ -678,7 +680,6 @@
 ||46pic.twitter.com^
 ||4750pic.twitter.com^
 ||48.vk.com^
-||4809.genapicloud.comwww.feelinsonice.com^
 ||485pic.twitter.com^
 ||48minspic.twitter.com^
 ||48pic.twitter.com^
@@ -1898,6 +1899,8 @@
 ||abetterworldpic.twitter.com^
 ||abf.vk.com^
 ||abhi.vk.com^
+||abm-client.us.tiktok.com^
+||abm.us.tiktok.com^
 ||abo.vk.com^
 ||abolishicepic.twitter.com^
 ||abomeycalavi.periscope.tv^
@@ -1978,6 +1981,7 @@
 ||accountpic.twitter.com^
 ||accounts.facebook.com^
 ||accounts.pic.twitter.com^
+||accounts.scm-us.tiktok.com^
 ||accounts.snap-dev.net^
 ||accounts.snapchat.com^
 ||accounts.snappublisher.snapchat.com^
@@ -2113,6 +2117,7 @@
 ||ads-pack.misskey.io^
 ||ads-preprod.chef.games.snapchat.com^
 ||ads-preprod.snapchat.com^
+||ads-service.tiktok.com^
 ||ads-staging.twitter.com^
 ||ads-stats-limiter-shadow.snapads.com^
 ||ads-twitter.com^
@@ -3478,6 +3483,7 @@
 ||ap-southeast1-aws.gateway.snapchat.com^
 ||ap-southeast1-aws192.snappublisher.snapchat.com^
 ||ap.vpn.twttr.com^
+||apac-marketing.tiktok.com^
 ||apacceleratepic.twitter.com^
 ||apachebeampic.twitter.com^
 ||apacpolicy.fb.com^
@@ -4539,8 +4545,6 @@
 ||bigeasthoopspic.twitter.com^
 ||bigeastpic.twitter.com^
 ||biggie.pic.twitter.com^
-||bigociti-ssl.like-video.com^
-||bigociti-xenc.like-video.com^
 ||bigsmallpic.twitter.com^
 ||bigtechpic.twitter.com^
 ||bigzipfiles.facebook.com^
@@ -4938,7 +4942,11 @@
 ||business-as-visualpic.twitter.com^
 ||business-manager.snap-dev.net^
 ||business-manager.snapchat.com^
+||business-sso.eu.tiktok.com^
+||business-sso.us.tiktok.com^
 ||business-staging.twitter.com^
+||business-suite.tiktok.com^
+||business-tips.tiktok.com^
 ||business-va.tiktokv.com^
 ||business.facebook.com^
 ||business.instagram.com^
@@ -5803,8 +5811,6 @@
 ||cisco-imc.iad3.facebook.com^
 ||cisco.facebook.com^
 ||cispic.twitter.com^
-||citi-ssl.like-video.com^
-||citi-xenc.like-video.com^
 ||cities.pic.twitter.com^
 ||citiespic.twitter.com^
 ||citipic.twitter.com^
@@ -7542,6 +7548,7 @@
 ||disclosure.pic.twitter.com^
 ||discountedpic.twitter.com^
 ||discouragedpic.twitter.com^
+||discover.tiktok.com^
 ||discover.twitter.com^
 ||discoverandromedapic.twitter.com^
 ||discoverpic.twitter.com^
@@ -7974,6 +7981,7 @@
 ||drop.pic.twitter.com^
 ||droppic.twitter.com^
 ||droppingpic.twitter.com^
+||drs.gw.us.tiktok.com^
 ||drsharwoodpic.twitter.com^
 ||drunk.pic.twitter.com^
 ||ds.sc-cdn.net^
@@ -14471,6 +14479,7 @@
 ||egnatia.pic.twitter.com^
 ||egopic.twitter.com^
 ||egos.pic.twitter.com^
+||egress.gw.us.tiktok.com^
 ||egsp2pic.twitter.com^
 ||egypt.pic.twitter.com^
 ||egyptpic.twitter.com^
@@ -14738,8 +14747,8 @@
 ||ethpic.twitter.com^
 ||ethtraderpic.twitter.com^
 ||etscrivnerpic.twitter.com^
-||etude352.frwww.feelinsonice.com^
 ||eu-dev.fb.com^
+||eu-marketing.tiktok.com^
 ||eu-preprod.fb.com^
 ||eu-west1-aws.api.sc-gw.com^
 ||eu-west1-aws.duplex.sc-gw.com^
@@ -14747,7 +14756,9 @@
 ||eu.antivirus.2.snappublisher.snapchat.com^
 ||eu.facebook.com^
 ||eu.fb.com^
+||eu.safety-enforcement.tiktok.com^
 ||eu.snappublisher.snapchat.com^
+||eu.tiktok.com^
 ||eu.tiktokv.com^
 ||eu.video.like.video^
 ||euantivirus.snappublisher.snapchat.com^
@@ -16457,6 +16468,7 @@
 ||games.snappublisher.snapchat.com^
 ||gamespic.twitter.com^
 ||gamificationpic.twitter.com^
+||gaming.tiktok.com^
 ||gandhipic.twitter.com^
 ||gandrewstonepic.twitter.com^
 ||gantivirus-aom-produantivirus-at-find-dev.snappublisher.snapchat.com^
@@ -16704,6 +16716,7 @@
 ||go.bsky.app^
 ||go.engantivirus.snappublisher.snapchat.com^
 ||go.fb.com^
+||go.ig.me^
 ||go.misskey.io^
 ||go.pic.twitter.com^
 ||go.snapchat.com^
@@ -17261,7 +17274,6 @@
 ||i20.vk.com^
 ||i3.twimg.com^
 ||i30.vk.com^
-||i4.c.eset.comwww.feelinsonice.com^
 ||iaafworldspic.twitter.com^
 ||iad1-cr1.twttr.com^
 ||iad1-cr2.twttr.com^
@@ -17373,6 +17385,7 @@
 ||imaginedragons.twitter.com^
 ||imagingpic.twitter.com^
 ||imap.snappublisher.snapchat.com^
+||imap.tiktok.com^
 ||imapi-16.tiktokv.com^
 ||imariajohnsenpic.twitter.com^
 ||imbecilpic.twitter.com^
@@ -18498,6 +18511,7 @@
 ||kotinospartnerspic.twitter.com^
 ||kpcbpic.twitter.com^
 ||kpmgpic.twitter.com^
+||kr-marketing.tiktok.com^
 ||kr.antivirus.snappublisher.snapchat.com^
 ||kr.antivirus.vkontakte.ru^
 ||kr.antivirus0virus.snappublisher.snapchat.com^
@@ -18975,6 +18989,7 @@
 ||little.pic.twitter.com^
 ||littledrugs.comwww.twitter.com^
 ||liujackcpic.twitter.com^
+||live-backstage.tiktok.com^
 ||live-notification-dev.api.ranking.sc-corp.net^
 ||live-notification-dev.api.sc-corp.net^
 ||live-notification-dev.api.search.sc-corp.net^
@@ -18991,6 +19006,7 @@
 ||livefreepic.twitter.com^
 ||livenation.twitter.com^
 ||livepic.twitter.com^
+||livesend.tiktok.com^
 ||livestream-edgetee-upload-shv-01-akl1.facebook.com^
 ||livestream-edgetee-upload-shv-01-amt2.facebook.com^
 ||livestream-edgetee-upload-shv-01-atl3.facebook.com^
@@ -19593,7 +19609,6 @@
 ||map.snapchat.com^
 ||maparesearchpic.twitter.com^
 ||mapic.twitter.com^
-||maps.googleapis.comwww.feelinsonice.com^
 ||maps.instagram.com^
 ||maps.misskey.io^
 ||maps.snapchat.com^
@@ -19694,6 +19709,8 @@
 ||mcs-va-useast2a.tiktokv.com^
 ||mcs-va.tiktokv.com^
 ||mcs.snssdk.com^
+||mdg-preprod.us.tiktok.com^
+||mdg.us.tiktok.com^
 ||mdm-dev.svc.twttr.com^
 ||mdm.snappublisher.snapchat.com^
 ||mdm.svc.twttr.com^
@@ -19828,6 +19845,7 @@
 ||mhtpic.twitter.com^
 ||mi-gta.help.misskey.io^
 ||mi-gta.misskey.io^
+||mi-marketing.tiktok.com^
 ||mi55tipperpic.twitter.com^
 ||mia-api.twitter.com^
 ||miao-miao-miao-api.sc-corp.net^
@@ -20409,6 +20427,8 @@
 ||mta8.e.twitter.com^
 ||mta9.e.twitter.com^
 ||mtb2000.vk.com^
+||mtls-fcdn.rtc-gw.tiktok.com^
+||mtls-row.rtc-gw.tiktok.com^
 ||mtmanipulationpic.twitter.com^
 ||mtv.twitter.com^
 ||muchpic.twitter.com^
@@ -20465,13 +20485,16 @@
 ||mx01.twitpic.com^
 ||mx02.facebook.com^
 ||mx1.snappublisher.snapchat.com^
+||mx1.tiktok.com^
 ||mx1.twitpic.com^
 ||mx1.twitter.com^
 ||mx1.twttr.com^
 ||mx2.snappublisher.snapchat.com^
+||mx2.tiktok.com^
 ||mx2.twitpic.com^
 ||mx2.twitter.com^
 ||mx2.twttr.com^
+||mx3.tiktok.com^
 ||mx3.twitter.com^
 ||mx4.twitter.com^
 ||mxenabledpic.twitter.com^
@@ -20860,6 +20883,7 @@
 ||notification-service.periscope.tv^
 ||notification-service.pscp.tv^
 ||notifications.pic.twitter.com^
+||notifications.tiktok.com^
 ||notify.vk.company^
 ||notpic.twitter.com^
 ||notredamepic.twitter.com^
@@ -21001,7 +21025,6 @@
 ||ocean.pic.twitter.com^
 ||oceaniceventspic.twitter.com^
 ||oceanspic.twitter.com^
-||ocsp.sca1b.amazontrust.comwww.feelinsonice.com^
 ||oct.antivirus.snappublisher.snapchat.com^
 ||oculus-verts-shv-01-akl1.facebook.com^
 ||oculus-verts-shv-01-ams4.facebook.com^
@@ -21586,6 +21609,7 @@
 ||parties.pic.twitter.com^
 ||partiespic.twitter.com^
 ||partner-stream.twitter.com^
+||partner-us.tiktok.com^
 ||partnerdata.twttr.com^
 ||partnerdata01.dmz1.twitter.com^
 ||partnerhub-api.snap-dev.net^
@@ -22516,6 +22540,7 @@
 ||pull-cmaf-f77-tt02.tiktokcdn.com^
 ||pull-cmaf-f77-tt03.fcdn.eu.tiktokcdn.com^
 ||pull-cmaf-f77-tt03.tiktokcdn.com^
+||pull-cmaf-f77-tt04.tiktokcdn.com^
 ||pull-cmaf-f77-va01.tiktokcdn.com^
 ||pull-cmaf-l77-gcp01.tiktokcdn.com^
 ||pull-cmaf-l77-va01.tiktokcdn.com^
@@ -22533,6 +22558,7 @@
 ||pull-flv-f77-tt03.fcdn.eu.tiktokcdn.com^
 ||pull-flv-f77-tt03.fcdn.us.tiktokcdn.com^
 ||pull-flv-f77-tt03.tiktokcdn.com^
+||pull-flv-f77-tt04.tiktokcdn.com^
 ||pull-flv-f77-va01.fcdn.eu.tiktokcdn.com^
 ||pull-flv-f77-va01.tiktokcdn.com^
 ||pull-flv-fe77-sg01.tiktokcdn.com^
@@ -22548,6 +22574,7 @@
 ||pull-flv-l77-tt01.tiktokcdn.com^
 ||pull-flv-l77-tt02.eu.tiktokcdn.com^
 ||pull-flv-l77-tt02.tiktokcdn.com^
+||pull-flv-l77-tt04.tiktokcdn.com^
 ||pull-flv-l77-va01.eu.tiktokcdn.com^
 ||pull-flv-l77-va01.tiktokcdn.com^
 ||pull-flv-o77-sg01.eu.tiktokcdn.com^
@@ -23405,6 +23432,8 @@
 ||rsw1dv-inband.01.snc8.facebook.com^
 ||rtam-collector.snapchat.com^
 ||rtb-ads.shadow.snapads.com^
+||rtc.gw.forward.pvt.tiktok.com^
+||rtc.gw.forward.test.tiktok.com^
 ||rtlog-va.tiktokv.com^
 ||rtlog.tiktokv.com^
 ||rtlog19-applog-useast5.us.tiktokv.com^
@@ -23464,7 +23493,6 @@
 ||s-static.ak.facebook.com^
 ||s-static.ak.fbcdn.net^
 ||s.ads-twitter.com^
-||s.aolcdn.comwww.feelinsonice.com^
 ||s.likee.video^
 ||s.sc-cdn.net^
 ||s.snapchat.com^
@@ -23507,6 +23535,7 @@
 ||sadlerpic.twitter.com^
 ||safe.pic.twitter.com^
 ||saferdrivingpic.twitter.com^
+||safety-enforcement.tiktok.com^
 ||safety.periscope.tv^
 ||safety.pscp.tv^
 ||safety.twitter.com^
@@ -23643,6 +23672,7 @@
 ||sciencepic.twitter.com^
 ||scienceplussoulpic.twitter.com^
 ||scim.sc-corp.net^
+||scm-us.tiktok.com^
 ||scm.sc-jpl.com^
 ||scobleizerpic.twitter.com^
 ||scorchiopic.twitter.com^
@@ -23687,6 +23717,7 @@
 ||se.pic.twitter.com^
 ||se.snap-dev.net^
 ||se.snapchat.com^
+||sea-marketing.tiktok.com^
 ||sea.pic.twitter.com^
 ||sea.snap-dev.net^
 ||seachpic.twitter.com^
@@ -23938,11 +23969,11 @@
 ||segwitpic.twitter.com^
 ||selbstbedienungpic.twitter.com^
 ||self-serve-ads.snap-dev.net^
-||self.events.data.microsoft.comwww.feelinsonice.com^
 ||selfdevelopmentpic.twitter.com^
 ||selfesteempic.twitter.com^
 ||selfgrowthpic.twitter.com^
 ||selfsovereignidentitypic.twitter.com^
+||seller-id.tiktok.com^
 ||selling.pic.twitter.com^
 ||sellingpic.twitter.com^
 ||sellpic.twitter.com^
@@ -24048,6 +24079,7 @@
 ||sg.pic.twitter.com^
 ||sg.pscp.tv^
 ||sg.sc-corp.net^
+||sg.tiktokcdn.com^
 ||sg.video.like.video^
 ||sgi1.41039.vkuseraudio.net^
 ||sgi1.41039.vkuservideo.net^
@@ -24597,6 +24629,7 @@
 ||sms.twitter.com^
 ||smsconsulting.pscp.tv^
 ||smtp.snappublisher.snapchat.com^
+||smtp.tiktok.com^
 ||smtp.twitter.com^
 ||smtp10.vk.com^
 ||smtpin.mx.facebook.com^
@@ -26429,7 +26462,6 @@
 ||tiktok.org^
 ||tiktokcdn.com^
 ||tiktokv.com^
-||tile-service.weather.microsoft.comwww.feelinsonice.com^
 ||tiles.maps.vk.com^
 ||tilly.pic.twitter.com^
 ||tilpic.twitter.com^
@@ -26753,6 +26785,8 @@
 ||traceroute-fna-bgp-04-fmaa1.facebook.com^
 ||track.pic.twitter.com^
 ||tracker.pic.twitter.com^
+||tracking.infobip.account.tiktok.com^
+||tracking.infobip.service.tiktok.com^
 ||trackpic.twitter.com^
 ||tractionpic.twitter.com^
 ||trade.pic.twitter.com^
@@ -26860,7 +26894,6 @@
 ||trypic.twitter.com^
 ||tsapic.twitter.com^
 ||tsar.pic.twitter.com^
-||tsht.feelinsonice.com^
 ||tslapic.twitter.com^
 ||tsx300pic.twitter.com^
 ||ttavlaspic.twitter.com^
@@ -26978,8 +27011,6 @@
 ||uasf.pic.twitter.com^
 ||uasfpic.twitter.com^
 ||uat-antivirus.snappublisher.snapchat.com^
-||uat-citi-ssl.like-video.com^
-||uat-citi-xenc.like-video.com^
 ||uat.snappublisher.snapchat.com^
 ||uauth.ise.twitter.com^
 ||uavpic.twitter.com^
@@ -27211,6 +27242,7 @@
 ||usdjpypic.twitter.com^
 ||usdkrwpic.twitter.com^
 ||usdpic.twitter.com^
+||usds.tiktok.com^
 ||usdsgdpic.twitter.com^
 ||use.adserver.snapads.com^
 ||use4-gcp-v4.api.snapchat.com^
@@ -27294,6 +27326,7 @@
 ||v77-ch-b.tiktokcdn.com^
 ||v77-ch-c.tiktokcdn.com^
 ||v77-coin.tiktokcdn.com^
+||v77-perf.tiktokcdn.com^
 ||v77-sla-measure.tiktokcdn.com^
 ||v77-tcs.tiktokcdn.com^
 ||v77.tiktokcdn.com^
@@ -27706,6 +27739,7 @@
 ||wcofibpic.twitter.com^
 ||wcw.periscope.tv^
 ||wcz01.fava.fb.com^
+||wdg.us.tiktok.com^
 ||wdmr2019pic.twitter.com^
 ||weaknesspic.twitter.com^
 ||weakpic.twitter.com^
@@ -28082,7 +28116,6 @@
 ||webhook.snappublisher.snapchat.com^
 ||webinarpic.twitter.com^
 ||webmail.facebook.com^
-||webmail.notamail.euwww.feelinsonice.com^
 ||webmail.snappublisher.snapchat.com^
 ||webmail.virtuallyeverywhere.twitter.com^
 ||webmail10.vk.com^
@@ -28145,6 +28178,7 @@
 ||wettbewerbsvorteilpic.twitter.com^
 ||weworkpic.twitter.com^
 ||wf-exch2010.pscp.tv^
+||wfa.tiktok.com^
 ||wfm-service.snappublisher.snapchat.com^
 ||wfsullivan3pic.twitter.com^
 ||wftr17pic.twitter.com^
@@ -28876,6 +28910,7 @@
 ||widgets.platform.twitter.com^
 ||widgets.twimg.com^
 ||wifepic.twitter.com^
+||wifi.tiktok.com^
 ||wifpic.twitter.com^
 ||wiki-api.sc-corp.net^
 ||wiki-dev-api.sc-corp.net^
@@ -29199,8 +29234,6 @@
 ||www.asahdigital.fb.com^
 ||www.australia.fb.com^
 ||www.belajarmenjaga.fb.com^
-||www.bigociti-ssl.like-video.com^
-||www.bigociti-xenc.like-video.com^
 ||www.binario-f.fb.com^
 ||www.binariof.fb.com^
 ||www.brasil.fb.com^
