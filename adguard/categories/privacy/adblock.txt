@@ -5376,7 +5376,6 @@
 ||ampltd.medal.tv^
 ||ampltd.top.gg^
 ||ampltd2.medal.tv^
-||ampscamp.net^
 ||ams-pageview-public.s3.amazonaws.com^
 ||ams.lelong.com.my^
 ||ams.oraclecloud.com^
@@ -5426,6 +5425,7 @@
 ||analytic.calif.aaa.com^
 ||analytic.capitalgroup.com^
 ||analytic.cibc.com^
+||analytic.divee.ai^
 ||analytic.fishtrack.com^
 ||analytic.hawaii.aaa.com^
 ||analytic.hotelclub.com^
@@ -5794,6 +5794,7 @@
 ||analytics.metro.fr^
 ||analytics.metro.pk^
 ||analytics.metro.ua^
+||analytics.mgm.gov.tr^
 ||analytics.midas-antilles.fr^
 ||analytics.midas.be^
 ||analytics.midas.ci^
@@ -9186,6 +9187,7 @@
 ||cannonborough.com^
 ||cannonchange.com^
 ||canvasandsocks.com^
+||canyonpizza.net^
 ||caowuq.babyliss-romania.ro^
 ||capi.connatix.com^
 ||capping.sirius.press^
@@ -9383,6 +9385,7 @@
 ||cell7021.sin.mobile.bid-fe.ads.aps.amazon-adsystem.com^
 ||cell8001.iad.mobile.bid-na.ads.aps.amazon-adsystem.com^
 ||cell8001.iad.mobile.event-na.ads.aps.amazon-adsystem.com^
+||cell8001.iad.pg.bid-na.ads.aps.amazon-adsystem.com^
 ||cell8001.iad.pg.event-na.ads.aps.amazon-adsystem.com^
 ||cell8001.iad.spp.bid-na.ads.aps.amazon-adsystem.com^
 ||cell8001.iad.spp.event-na.ads.aps.amazon-adsystem.com^
@@ -10158,6 +10161,7 @@
 ||collector.clareity.net^
 ||collector.dgnet.ltd.uk^
 ||collector.ex.co^
+||collector.feedzop.com^
 ||collector.fiverr.com^
 ||collector.getyourguide.com^
 ||collector.github.com^
@@ -10169,12 +10173,14 @@
 ||collector.pi.spectrum.net^
 ||collector.pmc.com^
 ||collector.quillbot.com^
+||collector.quizzop.com^
 ||collector.schibsted.io^
 ||collector.spankbang.party^
 ||collector.sspinc.io^
 ||collector.t-idr.com^
 ||collector.taoxh.life^
 ||collector.theconversation.com^
+||collector.umogames.com^
 ||collector.xhaccess.com^
 ||collector.xhamster.com^
 ||collector.xhamster.desi^
@@ -10724,6 +10730,7 @@
 ||corporatemrguide.americanexpress.de^
 ||corporatepages.proximus.com^
 ||corporateplatino.americanexpress.it^
+||correctedcode.com^
 ||cortellisconnections.thomsonreuters.com^
 ||cosme.caseepo.jp^
 ||cosmicsculptor.com^
@@ -11396,6 +11403,7 @@
 ||dandyglow.com^
 ||danielsmoving.actonservice.com^
 ||danv01ao0kdr2.cloudfront.net^
+||dap.hindustantimes.com^
 ||dapperdiscussion.com^
 ||dar-pix-prod-lb.alphonso.tv^
 ||dart.onjoyri.de^
@@ -12098,6 +12106,7 @@
 ||ddl.alma.iltalehti.fi^
 ||ddlbr.timesclub.co^
 ||ddlcvm.clas.style^
+||ddlnk.net^
 ||ddm.frandroid.com^
 ||ddmfrg.modivo.bg^
 ||ddnahc.mesbagages.com^
@@ -14489,6 +14498,7 @@
 ||eu-acr97.alphonso.tv^
 ||eu-acr98.alphonso.tv^
 ||eu-acr99.alphonso.tv^
+||eu-album-api.vivoglobal.com^
 ||eu-bl-server.alphonso.tv^
 ||eu-central-1-1.telemetry.insights.video.a2z.com^
 ||eu-central-1-2.telemetry.insights.video.a2z.com^
@@ -20027,7 +20037,6 @@
 ||jzprtb.1stdibs.com^
 ||jzq915.playmobil.com^
 ||jzqfac.bestsecret.ch^
-||jzzuvzq98.alphonso.tv^
 ||k-ring-fallback.msedge.net^
 ||k-ring.msedge.net^
 ||k.brandalley.be^
@@ -20220,6 +20229,7 @@
 ||kpfhir58.alphonso.tv^
 ||kpfvaq.schuhe.de^
 ||kqchxa.denizbutik.com^
+||kqcwmezun8.alphonso.tv^
 ||kqdqrj.traktorpool.de^
 ||kqefj.clearstem.com^
 ||kqhckf.outfits24.de^
@@ -20350,7 +20360,6 @@
 ||krishnaw369.alphonso.tv^
 ||krishnaw370.alphonso.tv^
 ||krishnaw371.alphonso.tv^
-||krishnaw372.alphonso.tv^
 ||krishnaw374.alphonso.tv^
 ||krishnaw375.alphonso.tv^
 ||krishnaw377.alphonso.tv^
@@ -20375,8 +20384,6 @@
 ||krishnaw401.alphonso.tv^
 ||krishnaw404.alphonso.tv^
 ||krishnaw405.alphonso.tv^
-||krishnaw407.alphonso.tv^
-||krishnaw408.alphonso.tv^
 ||krishnaw411.alphonso.tv^
 ||krishnaw412.alphonso.tv^
 ||krishnaw413.alphonso.tv^
@@ -20403,7 +20410,6 @@
 ||krishnaw441.alphonso.tv^
 ||krishnaw445.alphonso.tv^
 ||krishnaw446.alphonso.tv^
-||krishnaw447.alphonso.tv^
 ||krishnaw448.alphonso.tv^
 ||krishnaw449.alphonso.tv^
 ||krishnaw450.alphonso.tv^
@@ -26951,6 +26957,7 @@
 ||mvc.shopjapan.co.jp^
 ||mvjkbj.2-carat.net^
 ||mvjkbj.inazumanews2.com^
+||mvvjxmygdr2.alphonso.tv^
 ||mw-ind.actonservice.com^
 ||mw.lgsmartad.com^
 ||mwa.meanwellaustralia.com.au^
@@ -29793,6 +29800,7 @@
 ||qdnxys.cotswoldco.com^
 ||qdqdfp.toitsutest-koukou.com^
 ||qdvavs.trademax.se^
+||qdyjkmzm45.alphonso.tv^
 ||qedlai.restplatzboerse.com^
 ||qejrwy.lazienkaplus.pl^
 ||qerpks.rollei.de^
@@ -30615,6 +30623,7 @@
 ||roas-service.store-services-prod.remarkable.com^
 ||robotflowermobile.com^
 ||robotgarages.com^
+||robotsrefinery.com^
 ||rochelle.wantsext.me^
 ||rockagainst.com^
 ||rockstarwriter.com^
@@ -37492,6 +37501,7 @@
 ||stanburns.actonservice.com^
 ||stape.brascast.com^
 ||starchild.odencat.com^
+||starfurniture.net^
 ||starget.aircanada.com^
 ||starget.airmiles.ca^
 ||starget.bitdefender.com^
@@ -38806,6 +38816,7 @@
 ||stts.swisshranalytics.ch^
 ||studentadvantage.actonservice.com^
 ||studio.joinsalut.com^
+||studioalkaline.com^
 ||study.jcu.edu.au^
 ||study.vu.edu.au^
 ||studycooking.com^
@@ -39249,6 +39260,7 @@
 ||t-s.xpansions.com^
 ||t-s.zelboraf.com^
 ||t-s1-ring.msedge.net^
+||t-s2-ring.msedge.net^
 ||t-test.esvdigital.com^
 ||t.10er-tagesticket.de^
 ||t.12thman.com^
@@ -40375,6 +40387,7 @@
 ||thebigvan.com^
 ||thebrainybulb.com^
 ||thecea.actonservice.com^
+||thecounter.net^
 ||thecrazychili.com^
 ||thefishstops.com^
 ||thefontzone.com^
@@ -41375,6 +41388,7 @@
 ||tr-business.vodafone.com^
 ||tr-cota.vivoglobal.com^
 ||tr-domaincfg.vivoglobal.com^
+||tr-err-up.vivoglobal.com^
 ||tr-experiments.parsely.com^
 ||tr-gdpr-vgc-datacenter.vivoglobal.com^
 ||tr-ms.bosch-home.com^
@@ -44243,7 +44257,6 @@
 ||uaaooa.stansberryresearch.com^
 ||uaas.yandex.ru^
 ||uaemarketing.sedgwick.com^
-||uaenorth-0.in.applicationinsights.azure.com^
 ||ualkzq.moobel1.ee^
 ||uapi.ads.heytapmobi.com^
 ||uaqcui.tennis-point.fr^
@@ -44366,7 +44379,6 @@
 ||uiusqp.crowdcow.com^
 ||uiwock.epantofi.ro^
 ||ujbhri.pharmamarket.nl^
-||ujdcipvr0.alphonso.tv^
 ||ujlwwo.lehner-versand.ch^
 ||ujq1.destinia.is^
 ||ujuyhix2.alphonso.tv^
@@ -44605,6 +44617,7 @@
 ||us-east.ono.axp.amazon-adsystem.com^
 ||us-east.prod.service.minerva.devices.a2z.com^
 ||us-go.experian.com^
+||us-ic3.events.data.microsoft.com^
 ||us-marketing.roxtec.com^
 ||us-mesh-events-data-leafs.trafficmanager.net^
 ||us-mesh.events.data.microsoft.com^
@@ -44669,7 +44682,6 @@
 ||usgovarizona-0.in.applicationinsights.azure.us^
 ||usgovvirginia-0.in.applicationinsights.azure.us^
 ||usgovvirginia-1.in.applicationinsights.azure.us^
-||usgovvirginia-global.in.applicationinsights.azure.us^
 ||usgzei.vidaxl.ch^
 ||usingyourcard.americanexpress.co.uk^
 ||usmetric.rediff.com^
@@ -45613,6 +45625,7 @@
 ||wallet.chain.com^
 ||wallpaper-service-sg.allawnos.com^
 ||wamahe.wokularach.pl^
+||wan.measure.office.com^
 ||wantingwindow.com^
 ||wap.game.xiaomi.com^
 ||wap.mylifetime.com^
@@ -45623,6 +45636,7 @@
 ||warnwing.com^
 ||warrenfcu.actonservice.com^
 ||warrjy.feiler.jp^
+||wart.val.town^
 ||was.epson.com^
 ||was.stubhub.com^
 ||was.vodafone.de^
@@ -46711,6 +46725,7 @@
 ||www.mbljpu9.com^
 ||www.me1294hlx.com^
 ||www.mean8sigh.com^
+||www.measure.office.com^
 ||www.mediaedge-info.com^
 ||www.mediwebinars.com^
 ||www.medtronicsolutions.com^
