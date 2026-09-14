@@ -7518,6 +7518,7 @@
 ||bebpon.zetronix.com^
 ||becanium.com^
 ||becomemummy.com^
+||beddingdownbaby.com^
 ||bedsberry.com^
 ||bee.tc.easebar.com^
 ||beeline.beeline-tire.co.jp^
@@ -7613,9 +7614,11 @@
 ||bigfishapparel.com^
 ||biggerbling.com^
 ||bighornbasin.net^
+||bigpicframing.com^
 ||bigwetbrush.com^
 ||bigworldfashion.com^
 ||bijkep.hotelesestelar.com^
+||bijouxbee.com^
 ||bikeexerciser.com^
 ||bikepaws.com^
 ||bikesboard.com^
@@ -7636,6 +7639,7 @@
 ||bioanalyticalmarketing.eurofins-info.com^
 ||biologylog.com^
 ||biophysicsgroup.actonservice.com^
+||biotechnologysciences.com^
 ||birthdaybelief.com^
 ||biscuitbox.net^
 ||bisko.mall.tv^
@@ -9847,7 +9851,6 @@
 ||csvtt.bmolife.com^
 ||csvtu.bmolending.com^
 ||csymrm.24mx.fr^
-||csyqts.tmon.co.kr^
 ||ct-dev.taskhuman.com^
 ||ct-errs.cartrawler.com^
 ||ct.beslist.nl^
@@ -10852,7 +10855,6 @@
 ||dc01p-net-sslvpn0-ra.net.jumia.com.gh^
 ||dc2.credit-suisse.com^
 ||dc8na2hxrj29i.cloudfront.net^
-||dc8xl0ndzn2cb.cloudfront.net^
 ||dcbpm.suning.cn^
 ||dccfog.petco.com^
 ||dcclaa.bunte.de^
@@ -19647,7 +19649,6 @@
 ||logbak.hicloud.com^
 ||logcollector.note.com^
 ||logger-test.mno.link^
-||logger.bzu.kr^
 ||logger.kataweb.it^
 ||logger.nerdwallet.com^
 ||logger.omio.com^
@@ -25479,6 +25480,7 @@
 ||pamelarandom.com^
 ||pampopholf.com^
 ||panda.kasika.io^
+||pangle.io^
 ||panickypancake.com^
 ||panorama.wixapps.net^
 ||panoramicplane.com^
@@ -27283,7 +27285,6 @@
 ||rmmskb.fnacspectacles.com^
 ||rmp4.destinia.uy^
 ||rmxhti.zpacks.com^
-||rnffgv.wemakeprice.com^
 ||rnnstu.rentbeforeowning.com^
 ||rnybul.gismeteo.lv^
 ||rnybul.gismeteo.md^
@@ -32712,6 +32713,7 @@
 ||solarrecharge.net^
 ||soleblinds.com^
 ||solicitud.pacifico.com.pe^
+||solidfiles.net^
 ||solidscape.actonservice.com^
 ||solidsub.com^
 ||solmax.actonservice.com^
@@ -33110,6 +33112,7 @@
 ||specialtypin.com^
 ||spectacularstamp.com^
 ||spectrum.gettyimages.com^
+||speedmethod.com^
 ||speedtrap.shopdirect.com^
 ||speedyfox.io^
 ||speedyrhino.co^
@@ -33934,6 +33937,7 @@
 ||startrekk.flaconi.de^
 ||startrekk.flaconi.fr^
 ||startrekk.flaconi.pl^
+||starwinmedia.com^
 ||stas.outbrain.com^
 ||stat-58home.58che.com^
 ||stat-ssl.akiba-souken.com^
@@ -34989,6 +34993,7 @@
 ||steadfastsystem.com^
 ||stealsteel.com^
 ||steel.newmill.com^
+||steelcasket.com^
 ||steelmaiden.com^
 ||steepsister.com^
 ||steepsquirrel.com^
@@ -35211,6 +35216,7 @@
 ||success.vertigisstudio.com^
 ||successbuffet.com^
 ||successmenu.com^
+||successoutcome.com^
 ||sucmetrics.hypovereinsbank.de^
 ||sucmetrics.unicredit.de^
 ||sucmetrics.unicredit.it^
@@ -35232,7 +35238,9 @@
 ||summit.edm.globalsources.com^
 ||suncanny.marvel.com^
 ||suncanny.marvelhq.com^
+||sunflaggroup.com^
 ||sunlightmetrics.b-cdn.net^
+||sunnylettings.com^
 ||sunsetcampfires.com^
 ||sunsetstatic.com^
 ||sunshinegates.com^
@@ -35267,6 +35275,7 @@
 ||survey.mazda.com.au^
 ||survey.xo.com^
 ||surveys.executiveboard.com^
+||sushivolant.com^
 ||sustainability.ricoh.ch^
 ||sustainability.ricoh.co.za^
 ||sustainable.optum.com^
@@ -36416,9 +36425,11 @@
 ||tech.sangfor.com^
 ||tech.softchoice.com^
 ||techadv.actonservice.com^
+||techcatcher.com^
 ||techconverter.com^
 ||techdrivethru.com^
 ||techgifts.tradeshow.globalsources.com^
+||techmix.net^
 ||technical.kyzen.com^
 ||technology.informaengage.com^
 ||technology1.informaengage.com^
@@ -36602,6 +36613,7 @@
 ||text.mitarbeiterangebote.at^
 ||text.mitarbeiterangebote.de^
 ||text.rahmenvereinbarungen.de^
+||texturehunt.com^
 ||texturetrick.com^
 ||teyourmarketing.trungaleegan.com^
 ||teyvmb.moniquelhuillier.com^
@@ -37004,6 +37016,7 @@
 ||top3.inhaabit.com^
 ||topcrazypress.com^
 ||topicalcartel.com^
+||topicjungle.com^
 ||topsecretapp.net^
 ||topspin.npo.nl^
 ||topthrowbacks.com^
@@ -39810,6 +39823,7 @@
 ||turbolion.io^
 ||turtleface.net^
 ||tutbc1.www.tapmyback.com^
+||tutorshelf.com^
 ||tuvevx.agent-sana.com^
 ||tv-test.esvdigital.com^
 ||tv.totaljobs.com^
@@ -39842,6 +39856,7 @@
 ||two.tio.nl^
 ||twochihuahuas.com^
 ||twoeej.carrefour.fr^
+||twofishweb.com^
 ||twsdne.petenkoiratarvike.com^
 ||tx-br-cdn.kwai.net.iberostar.com^
 ||tx-pro-pull.kwai.net.iberostar.com^
@@ -40125,6 +40140,7 @@
 ||ur.b.inhaabit.com^
 ||urbanairship.com^
 ||urbanlaurel.com^
+||urbanopus.net^
 ||urehgr.halekulani.com^
 ||ureoaw.netthandelen.no^
 ||ureruadebis.papawash.com^
