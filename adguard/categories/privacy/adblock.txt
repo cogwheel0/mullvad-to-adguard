@@ -4462,6 +4462,7 @@
 ||adcontroll.com^
 ||addefend-platform.com^
 ||addictedattention.com^
+||addmoves.com^
 ||addressfriend.com^
 ||ade.deskstyle.info^
 ||ade.googlesyndication.com^
@@ -5008,6 +5009,7 @@
 ||amahami.net.anwalt.de^
 ||amalto.actonservice.com^
 ||amandi.openapp.link^
+||amazinglea.com^
 ||amazon-email.branch.rocks^
 ||ambientdusk.com^
 ||ambiguousafternoon.com^
@@ -5173,6 +5175,7 @@
 ||analytics.animexx.de^
 ||analytics.api.justeattakeaway.com^
 ||analytics.apnewsregistry.com^
+||analytics.app.funnelish.com^
 ||analytics.archive.org^
 ||analytics.argeton.com^
 ||analytics.arunraghavan.net^
@@ -6840,7 +6843,10 @@
 ||art.carte-gr.total.fr^
 ||art2wave.actonservice.com^
 ||artbranch.net^
+||artcat.net^
 ||artemis-cdn.ocdn.eu^
+||artfulsavage.com^
+||arthustler.net^
 ||articledemon.com^
 ||artisan.actonservice.com^
 ||artistchristinacarmel.ericksonbuilt.com^
@@ -7140,6 +7146,7 @@
 ||axkcmb.mosigra.ru^
 ||axkwyf.edinos.pl^
 ||axnskz.power-stones.jp^
+||axonsite.com^
 ||axoqjt.gommadiretto.it^
 ||axoqvl.daf-shoes.com^
 ||axp.8newsnow.com^
@@ -7759,6 +7766,7 @@
 ||bmodjx.mgos.jp^
 ||bmrg.reflected.net^
 ||bmst.pw^
+||bmtrcs.com^
 ||bmwebm.org^
 ||bmyudk.clarins.de^
 ||bmzuyj.nifty.com^
@@ -8082,6 +8090,7 @@
 ||browser.pipe.aria.microsoft.com^
 ||browser.sentry-cdn.com^
 ||browserguides.net^
+||browsertdidticket.m.qq.com^
 ||brpayless.eccocar.com^
 ||brqory.notino.sk^
 ||brquazzar.eccocar.com^
@@ -9807,6 +9816,7 @@
 ||crs.actonservice.com^
 ||crta.and.co.uk^
 ||crta.dailymail.co.uk^
+||crta.dailymail.com^
 ||crta.metro.co.uk^
 ||cruisetourist.com^
 ||crumbs.robinhood.com^
@@ -9963,6 +9973,7 @@
 ||customize.titanfactorydirect.com^
 ||cutecalculator.com^
 ||cutechin.com^
+||cutsmarter.net^
 ||cv-match.sharebase.jp^
 ||cv-tracker.stanby.com^
 ||cv.2jikaikun.com^
@@ -11757,6 +11768,7 @@
 ||duqqrl.jefchaussures.com^
 ||durchsichtig.xyz^
 ||durst-group.actonservice.com^
+||dusthorses.com^
 ||dustydime.com^
 ||dustyhammer.com^
 ||duu8lzqdm8tsz.cloudfront.net^
@@ -12151,6 +12163,7 @@
 ||ednqjm.magnanni.com^
 ||edpsmart.edpcomunicacao.com.br^
 ||edriving.actonservice.com^
+||edshowpigs.com^
 ||edtrainingcenter.actonservice.com^
 ||edu.quizdom.gr^
 ||education.bendigotafe.edu.au^
@@ -12768,6 +12781,7 @@
 ||encouragingthread.com^
 ||encuestas.billeteramango.com^
 ||endeavorbusinessmedia.actonservice.com^
+||endhairfall.com^
 ||endlesstrust.com^
 ||endljp.168chasa.bg^
 ||endljp.abv.bg^
@@ -13282,6 +13296,7 @@
 ||events.ricoh.ie^
 ||events.s4long.com^
 ||events.santander.co.uk^
+||events.searchtap.net^
 ||events.shareably.net^
 ||events.shoplift.ai^
 ||events.sk.ht^
@@ -14202,6 +14217,7 @@
 ||gatan.actonservice.com^
 ||gateway.aimia.com^
 ||gateway.foresee.com^
+||gatherer.m.qq.com^
 ||gaudyairplane.com^
 ||gawayez.e-postserv.com^
 ||gay-hotvideo.net^
@@ -14509,6 +14525,7 @@
 ||gkgygj.verivox.de^
 ||gkopqp.coccodrillo.eu^
 ||gksqdt.reitmans.com^
+||gkx.gokwik.co^
 ||gl5g98t0vfjb.panprices.com^
 ||gladysway.com^
 ||glamhawk.com^
@@ -15789,6 +15806,7 @@
 ||hykaqn.dormideo.com^
 ||hypercarart.com^
 ||hyperdisk.actonservice.com^
+||hyperfrost.net^
 ||hyperlegend.com^
 ||hypnoticwound.com^
 ||hyrankhit.meldingcloud.com^
@@ -19657,6 +19675,7 @@
 ||log.mgtv.com^
 ||log.mix.sina.com.cn^
 ||log.mofa.go.kr^
+||log.news.baidu.com^
 ||log.nordot.jp^
 ||log.olark.com^
 ||log.outbrain.com^
@@ -20261,6 +20280,7 @@
 ||mapp.peacocks.co.uk^
 ||mapp.yesstyle.com^
 ||marblediscussion.com^
+||marbleseeds.com^
 ||marceline.wantsext.me^
 ||march.landing.ni.com^
 ||marcom.biodex.com^
@@ -24470,6 +24490,7 @@
 ||noblecables.com^
 ||noblefellow.com^
 ||nocaadobefpc.optus.com.au^
+||nodals.io^
 ||nodenotify.com^
 ||nodethisweek.com^
 ||noflake-aggregator-http.narvar.com^
@@ -25393,6 +25414,7 @@
 ||p.placed.com^
 ||p.pmu.fr^
 ||p.ryanhalliday.com^
+||p.sa7eer.com^
 ||p.skimresources.com^
 ||p.spotidownloader.com^
 ||p.tencentmind.com^
@@ -26472,6 +26494,7 @@
 ||pulse.genki.world^
 ||pulse.munsonhealthcare.org^
 ||pulse.shopflo.com^
+||pulsepoint.ideal.house^
 ||pumlmb.netcologne.de^
 ||pumpedpancake.com^
 ||pumpedpurpose.com^
@@ -26926,6 +26949,7 @@
 ||realsolutions.americanexpress.se^
 ||realtime-profiling.datarize.ai^
 ||realtime.bbcl.cl^
+||realtimeanalytics.yext.com^
 ||realtimely.io^
 ||realtors.eq.delwebb.com^
 ||reaonq.xn--hdks770u8f0a8dvzft.net^
@@ -36532,6 +36556,7 @@
 ||techservices.trapptechnology.com^
 ||techsupport.balluff.com^
 ||teczbq.amicashop.com^
+||ted.dailymail.co.uk^
 ||tediousbear.com^
 ||tedioustooth.com^
 ||teefiksummin.visma.fi^
@@ -36732,6 +36757,7 @@
 ||thebasiccompanies.actonservice.com^
 ||thebdx.actonservice.com^
 ||thebestpaints.com^
+||thebicyclehut.com^
 ||thebigvan.com^
 ||thebrainybulb.com^
 ||thecea.actonservice.com^
@@ -38393,6 +38419,7 @@
 ||track.concur.com.sg^
 ||track.connectwise.com^
 ||track.contently.com^
+||track.convertfox.com^
 ||track.cordial.io^
 ||track.cornerstonebuildingbrands.com^
 ||track.craudia.com^
@@ -39371,6 +39398,7 @@
 ||traffic.wdc.center^
 ||trafficfuelpixel.s3-us-west-2.amazonaws.com^
 ||trafficid.brandwell.ai^
+||trafik.koopit.ist^
 ||trail-001.schleich-s.com^
 ||trail.53kf.com^
 ||trail.71baomu.com^
@@ -41498,6 +41526,7 @@
 ||webstat.garanti.com.tr^
 ||webstat.qiumibao.com^
 ||webstat.vodafone.com^
+||webstat.ws.126.net^
 ||webstats.americanbar.org^
 ||webstats.bijenpatel.com^
 ||webstats.cbre.com^
