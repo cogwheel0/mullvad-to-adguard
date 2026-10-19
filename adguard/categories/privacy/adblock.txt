@@ -4373,6 +4373,7 @@
 ||ad-ebis.mynavi-job20s.jp^
 ||ad-ebis.toysub.jp^
 ||ad-log.dable.io^
+||ad-manager.matsukiyococokara-online.com^
 ||ad-platform.jmty.jp^
 ||ad-tracker-api.luizalabs.com^
 ||ad.320320.net^
@@ -5312,6 +5313,7 @@
 ||analytics.fatmedia.io^
 ||analytics.favcy.com^
 ||analytics.ferguson.com^
+||analytics.fibwatch.com^
 ||analytics.firespring.com^
 ||analytics.firstbankcardcenter.com^
 ||analytics.firstbankcardplcc.com^
@@ -5641,6 +5643,7 @@
 ||analytics.truckingauthority.com^
 ||analytics.trust.page^
 ||analytics.trutv.com^
+||analytics.tsoftapps.com^
 ||analytics.tufos.com.br^
 ||analytics.turnertv.com^
 ||analytics.tver.jp^
@@ -6830,6 +6833,7 @@
 ||argos.citruserve.com^
 ||argyleforum.actonservice.com^
 ||aria.inhaabit.com^
+||ariaclean.com^
 ||ariane.abtasty.com^
 ||arigng.door.ac^
 ||arincol.arin-innovation.com^
@@ -7643,6 +7647,7 @@
 ||bilahh.feuvert.fr^
 ||bilder11.markt.de^
 ||bilingualgeek.com^
+||billionpet.com^
 ||billowybead.com^
 ||billowybelief.com^
 ||billtable.com^
@@ -7827,6 +7832,7 @@
 ||bopmkf.lolahome.es^
 ||boqufs.2nn.jp^
 ||boredcrown.com^
+||borefee.com^
 ||boringberry.com^
 ||boringpirate.com^
 ||boss.openapp.link^
@@ -8506,6 +8512,7 @@
 ||catracking.finning.com^
 ||cats.d20.rs^
 ||catschickens.com^
+||catsthumb.com^
 ||cattell.loanzify.app^
 ||cattlecommittee.com^
 ||cauldronfest.com^
@@ -8680,6 +8687,7 @@
 ||chipperisle.com^
 ||chivalrouscord.com^
 ||chloro.trip.com^
+||choicebump.com^
 ||choose.adelaide.edu.au^
 ||choose.nu.edu^
 ||choymp.pooldawg.com^
@@ -8719,6 +8727,7 @@
 ||ciszhp.finanzfrage.net^
 ||ciszhp.gesundheitsfrage.net^
 ||ciszhp.motorradfrage.net^
+||citizensactive.com^
 ||citizensclimate.actonservice.com^
 ||citizenship.quantresear.ch^
 ||citydeal.net^
@@ -8839,6 +8848,7 @@
 ||clickatell.actonservice.com^
 ||clickcount.cnool.net^
 ||clicked.ebates.com^
+||clickersdigest.com^
 ||clickins.slixa.com^
 ||clicks.6thstreet.com^
 ||clicks.burgerking.co.uk^
@@ -8949,6 +8959,7 @@
 ||cltr.willhaben.at^
 ||cltxxq.cruises.united.com^
 ||clumsycar.com^
+||clutchcourses.com^
 ||clyexf.decathlon.ie^
 ||cm-exchange.toast.com^
 ||cm-in.americanexpress.com^
@@ -9050,6 +9061,7 @@
 ||coatfood.com^
 ||cobaltoverture.com^
 ||cobweb.actonservice.com^
+||cockatielcafe.com^
 ||cockpitdcbaima.carte-gr.total.fr^
 ||cocoacafes.com^
 ||cod.bitrec.com^
@@ -9163,6 +9175,7 @@
 ||collegeauthority.actonservice.com^
 ||colliers.actonservice.com^
 ||coloradoserves.com^
+||colorandnoise.com^
 ||colorfulneon.com^
 ||colorfulpet.com^
 ||coloroptimizer.com^
@@ -9173,6 +9186,7 @@
 ||colossalcry.com^
 ||columbustech.tcsg.edu^
 ||colvk.viki.io^
+||colwinners.com^
 ||com.carte-gr.total.fr^
 ||com.econa.com^
 ||combativedetail.com^
@@ -9190,6 +9204,7 @@
 ||commercial.davey.com^
 ||commercial.equifax.com^
 ||commercial.inform.equifax.com^
+||commitlogs.com^
 ||commondreams.actonservice.com^
 ||comms.adss.com^
 ||comms.bps.org.uk^
@@ -9570,8 +9585,9 @@
 ||content22.bmo.com^
 ||content22.citibank.com.au^
 ||content22.citibankonline.com^
-||content22.online.citi.com^
 ||contents.pwc.com^
+||contents1.00110.citi.com^
+||contents2.00110.citi.com^
 ||contentwiki.com^
 ||contoso-my.sharepoint.com^
 ||contractor-app.buildforce.com^
@@ -9631,6 +9647,7 @@
 ||copyvibes.com^
 ||coralcranes.com^
 ||coralreverie.com^
+||coralwatches.com^
 ||core-apps.b-cdn.net^
 ||corgibeachday.com^
 ||corporate-klm.americanexpress.nl^
@@ -9817,6 +9834,7 @@
 ||crookedcreature.com^
 ||crossees.com^
 ||crossengage.io^
+||crossseasent.com^
 ||crowdedmass.com^
 ||crrm.onjoyri.de^
 ||crs.actonservice.com^
@@ -10290,6 +10308,7 @@
 ||daegis.actonservice.com^
 ||dafvng.sunrefre.jp^
 ||daifez.thebay.com^
+||dailydesigned.com^
 ||dailydivision.com^
 ||dailydomino.com^
 ||dajdnm.splits59.com^
@@ -10306,6 +10325,7 @@
 ||dap.hindustantimes.com^
 ||dapperdiscussion.com^
 ||darkartsyoga.com^
+||darngavel.com^
 ||dart.onjoyri.de^
 ||dash.getsitecontrol.com^
 ||dashboardbntest.branchcustom.xyz^
@@ -10850,6 +10870,8 @@
 ||dbhbgz.suitableshop.nl^
 ||dbj.quebecregion.com^
 ||dbl.cadriamarketing.com^
+||dblarson.com^
+||dblendcoatings.com^
 ||dbmbfe.pegipegi.com^
 ||dbmyvl.apartmentfinder.com^
 ||dbpbyh.americanas.com.br^
@@ -11161,6 +11183,7 @@
 ||dgynnj.koctas.com.tr^
 ||dgztiz.conrad.se^
 ||dh0c1bz67fuho.cloudfront.net^
+||dharmabrats.com^
 ||dhdaa.duke.edu^
 ||dhkyrl.discountmags.com^
 ||dhmdja.trueprotein.com.au^
@@ -11647,6 +11670,7 @@
 ||doppler-client-events.cbsivideo.com^
 ||doppler-config.cbsivideo.com^
 ||doppler-reporting.cbsivideo.com^
+||dorsalapp.com^
 ||dotdotlab.com^
 ||dotshellmain.com^
 ||dotvox.actonservice.com^
@@ -11725,6 +11749,7 @@
 ||drive.seagate.com^
 ||drive.waitrapp.com^
 ||driven.actonservice.com^
+||drivenmove.com^
 ||driver.dctaxi.com^
 ||driver.jugnoo.in^
 ||droidwiz.com^
@@ -11768,6 +11793,7 @@
 ||dtzrrz.green-japan.com^
 ||du4rq1xqh3i1k.cloudfront.net^
 ||dualping.com^
+||duetcode.com^
 ||dujgiq.trendhim.pl^
 ||dumpster.cam4.com^
 ||dup.baidustatic.com^
@@ -11971,6 +11997,7 @@
 ||earthyfarm.com^
 ||eastcapelots.com^
 ||eastern2.secureforms.mcafee.com^
+||eastpalms.com^
 ||easysecurity.net^
 ||easysyncnews.com^
 ||eat.newtrina.com^
@@ -12767,7 +12794,6 @@
 ||emptyboats.com^
 ||emptyescort.com^
 ||emrdnt.sumaity.com^
-||emrld.cc^
 ||ems-a8net-tracking.easy-myshop.jp^
 ||ems.youku.com^
 ||emsexam.quantresear.ch^
@@ -13430,7 +13456,9 @@
 ||external.fpbc1-1.fna.fbcdn.net.iberostar.com^
 ||external.techopian.com^
 ||extmaps-api.yandex.net^
+||extracover.net^
 ||extractobservation.com^
+||extraliner.com^
 ||extralocker.com^
 ||extramilefloorcare.ericksonbuilt.com^
 ||extramonies.com^
@@ -13525,6 +13553,7 @@
 ||fancydune.com^
 ||fangfeeling.com^
 ||fanless.net^
+||fanpapers.com^
 ||faokwl.sklepogrodniczy.pl^
 ||faqtjp.redley.com.br^
 ||farahatco.actonservice.com^
@@ -13764,6 +13793,7 @@
 ||flowersonthebay.com^
 ||flowersornament.com^
 ||flowerstreatment.com^
+||flowerybunch.com^
 ||flowerycreature.com^
 ||floweryfact.com^
 ||floweryflavor.com^
@@ -14534,7 +14564,6 @@
 ||gkgygj.verivox.de^
 ||gkopqp.coccodrillo.eu^
 ||gksqdt.reitmans.com^
-||gkx.gokwik.co^
 ||gl5g98t0vfjb.panprices.com^
 ||gladysway.com^
 ||glamhawk.com^
@@ -20145,6 +20174,7 @@
 ||ma.betterbusiness.se^
 ||ma.brightby.se^
 ||ma.cbre.com^
+||ma.gamersnexus.net^
 ||ma.hitachi-systems.com^
 ||ma.hmhco.com^
 ||ma.kyloepartners.com^
@@ -25897,6 +25927,7 @@
 ||pixel.wp.pl^
 ||pixel.yabidos.com^
 ||pixel.yola.com^
+||pixel2.realclever.com^
 ||pixel6.wp.pl^
 ||pixeledhub.com^
 ||pixelmoonstudio.com^
@@ -29234,6 +29265,7 @@
 ||services.releasepoint.com^
 ||servicing.business.hsbc.com^
 ||servicing.unitedautocredit.net^
+||session.bugsnag.kindle.amazon.dev^
 ||session.timecommerce.net^
 ||sessions.bugsnag.com^
 ||sessions.embeddables.com^
@@ -34659,6 +34691,7 @@
 ||stats.localmetravel.com^
 ||stats.lord.io^
 ||stats.lotlinx.com^
+||stats.lrb.co.uk^
 ||stats.lstfnd.de^
 ||stats.ltdhunt.com^
 ||stats.luieremmer.net^
@@ -35051,6 +35084,7 @@
 ||stats.zimri.net^
 ||stats.zoogletools.net^
 ||stats.zotabox.com^
+||stats.zruvix.com^
 ||stats2.architecturaldigest.com^
 ||stats2.bonappetit.com^
 ||stats2.cntraveler.com^
@@ -37128,6 +37162,7 @@
 ||tofusquirrel.com^
 ||tomatobarrel.com^
 ||tommys.openapp.link^
+||tonanalytics.mugiwarattagentai.agency^
 ||tongji-res.meizu.com^
 ||tongji.duote.com^
 ||tongji.mafengwo.cn^
@@ -37172,6 +37207,7 @@
 ||townsquareinteractive.actonservice.com^
 ||toysbasics.com^
 ||toytakeover.com^
+||tp-em.cc^
 ||tp.ackermann.ch^
 ||tp.ambria.de^
 ||tp.baur.de^
@@ -37191,6 +37227,7 @@
 ||tp.lexisnexis.com.au^
 ||tp.limango.de^
 ||tp.mirapodo.de^
+||tp.myikas.com^
 ||tp.mytoys.de^
 ||tp.otto.de^
 ||tp.ottoversand.at^
@@ -41291,6 +41328,7 @@
 ||wdsgpy.lekarna.cz^
 ||wdukge.midwayusa.com^
 ||we-love-privacy.humane.club^
+||we-stats.com.cdn.cloudflare.net^
 ||we.care.oswegohealth.org^
 ||we.kurly.com^
 ||wealth.informabi.com^
