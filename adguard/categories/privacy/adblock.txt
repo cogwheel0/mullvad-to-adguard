@@ -7496,6 +7496,7 @@
 ||beacon.aimtell.com^
 ||beacon.cdn.qq.com^
 ||beacon.cdnma.com^
+||beacon.cdnpure.com^
 ||beacon.coofis.com^
 ||beacon.dropbox.com^
 ||beacon.errorception.com^
@@ -13697,6 +13698,7 @@
 ||fimyxg.bloomberght.com^
 ||fimyxg.haberturk.com^
 ||finalizeforce.com^
+||finalleague.com^
 ||finaloptics.com^
 ||financefear.com^
 ||financialeducation-info.uchicago.edu^
@@ -13738,7 +13740,9 @@
 ||fishspies.com^
 ||fitgreatest.com^
 ||fitnessmapper.com^
+||fitnesssponsor.com^
 ||fitwithalpine.com^
+||fiveplusthree.com^
 ||fivesidedsquare.com^
 ||fiwinet.firmenwissen.com^
 ||fiwinet.firmenwissen.de^
@@ -13766,6 +13770,7 @@
 ||flashplayerfeedback.adobe.com^
 ||flashstats.libsyn.com^
 ||flashtexting.com^
+||flatpebble.com^
 ||flavors.firmenich.com^
 ||fldoai.municipal.com^
 ||fleathecat.com^
@@ -14041,6 +14046,7 @@
 ||frdoki.selftanning.work^
 ||frdoki.studioglass.work^
 ||frdoki.woodblock.work^
+||freakywacko.com^
 ||freedomgrail.com^
 ||freezingbuilding.com^
 ||frenchgerleman.actonservice.com^
@@ -14089,6 +14095,7 @@
 ||ftmsyy.jbl.com.br^
 ||ftnnce.autodoc.dk^
 ||ftp.happ.social^
+||ftpmagic.com^
 ||ftuart.chomedeynissan.com^
 ||ftwnwght.net.anwalt.de^
 ||ftwo-feedback.autohome.com.cn^
@@ -14191,6 +14198,7 @@
 ||g.newtimes.com^
 ||g.pathsha.re^
 ||g.pcmag.com^
+||g.rtbrain.app^
 ||g.siliconweek.es^
 ||g.staging.pathsha.re^
 ||g.whatsapp.net.iberostar.com^
@@ -14245,6 +14253,7 @@
 ||gallerysouvlakeri.openapp.link^
 ||galop.leferacheval-saintcloud.com^
 ||gameplanfinancial.actonservice.com^
+||gamerhunk.com^
 ||gamerone.net^
 ||gammamaximum.com^
 ||ganon.yahoo.com^
@@ -15251,6 +15260,7 @@
 ||grassrootsunwired.actonservice.com^
 ||gravitygive.com^
 ||gravitykick.com^
+||graychalk.com^
 ||graylog.prod.cams.run^
 ||grayoranges.com^
 ||grayreceipt.com^
@@ -26868,6 +26878,7 @@
 ||r.sdiapi.net^
 ||r.skimresources.com^
 ||r.sportsie.com^
+||r.upload.app^
 ||r.winf.site^
 ||r.wz.de^
 ||r1ztni.oui.sncf^
@@ -34971,6 +34982,7 @@
 ||stats.tdameritrade.com^
 ||stats.te.com^
 ||stats.teamdetails.com^
+||stats.techinate.com^
 ||stats.tedserbinski.com^
 ||stats.teenranch.com^
 ||stats.tekin.co.uk^
